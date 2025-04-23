@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+<h1 align="center">🌍 Travly</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  Uma plataforma feita por jovens desenvolvedores para facilitar o acesso à informação em viagens internacionais.
+</p>
 
-## Available Scripts
+<p align="center">
+  <img src="https://img.shields.io/badge/Feito%20Com-React%20%2B%20TypeScript-61dafb?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/ODS-10.3-violet" />
+  <img src="https://img.shields.io/badge/Projeto%20Acadêmico-Ginásio%20Pernambucano-purple" />
+</p>
 
-In the project directory, you can run:
+## ✈️ Sobre o Projeto
 
-### `npm start`
+**Travly** é uma plataforma que centraliza informações úteis para quem deseja viajar para o exterior, como leis locais, documentação, clima, cultura, segurança e muito mais. Além disso, oferece uma comunidade colaborativa para viajantes trocarem experiências reais.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Inspirado por experiências frustrantes de viagem e casos reais, o Travly surgiu como solução para facilitar esse processo de pesquisa — com **confiabilidade, clareza e praticidade**.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 👨‍👩‍👧‍👦 Nosso Time
 
-### `npm test`
+Feito com amor por estudantes do curso técnico em **Desenvolvimento de Sistemas** do **Ginásio Pernambucano em Recife**:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Nome               | Função                            |
+|--------------------|-----------------------------------|
+| **Athina Farias**  | Front-end, Design |
+| **Cristóvão Martins** | Front-end |
+| **Júlia de Santana** | Back-end |
+| **Pablo David**    | Back-end |
+| **Thais Victoria** | Front-end, Design |
+| **Thayanne Stella** | Líder, Full-stack |
+| **Wydnney Henrique** | Front-end |
 
-### `npm run build`
+## 🌐 Funcionalidades
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+✅ Informações por país (visto, moeda, clima, cultura, leis)  
+✅ Feed com relatos de viajantes  
+✅ Interface intuitiva e responsiva  
+✅ Busca inteligente por destinos e temas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 💡 Diferenciais
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Centralização de Informações**  
+- **Comunidade Ativa de Viajantes**  
+- **Interface intuitiva e bonita**  
+- **Fonte confiável e curadoria de dados**
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <strong>Travly</strong> — viajando com informação, segurança e comunidade. 🌍💬
+</p>
