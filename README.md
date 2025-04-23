@@ -23,13 +23,13 @@ Feito com amor por estudantes do curso técnico em **Desenvolvimento de Sistemas
 
 | Nome               | Função                            |
 |--------------------|-----------------------------------|
-| **Athina Farias**  | Front-end, Design |
-| **Cristóvão Martins** | Front-end |
-| **Júlia de Santana** | Back-end |
+| **Athina Farias**  | Front-end, UX/UI Designer |
+| **Cristóvão Martins** | Back-end |
+| **Júlia de Santana** | Diretora Back-end |
 | **Pablo David**    | Back-end |
-| **Thais Victoria** | Front-end, Design |
+| **Thais Victoria** | Diretora Front-end |
 | **Thayanne Stella** | Líder, Full-stack |
-| **Wydnney Henrique** | Front-end |
+| **Wydnney Henrique** | Front-end, Diretor Criativo |
 
 ## 🌐 Funcionalidades
 
